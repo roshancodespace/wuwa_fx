@@ -1,0 +1,4 @@
+package_rename_config:
+  android:
+    app_name: "WuWaFX"
+    package_name: "com.roshancodespace.wuwafx"
