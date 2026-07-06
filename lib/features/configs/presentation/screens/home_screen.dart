@@ -19,7 +19,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   static const String _defaultRepoUrl =
-      'https://github.com/M1K4-M1K4/Mobile-WuWa-Config';
+      'https://github.com/Arglax/Mobile-WuWa-Config';
   static const String _key = 'repo_url';
 
   final TextEditingController _repoUrlController = TextEditingController();
